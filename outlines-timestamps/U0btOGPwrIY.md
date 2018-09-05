@@ -2,6 +2,10 @@
 
 View the video [here](https://www.youtube.com/watch?v=U0btOGPwrIY)
 
+> The video references [pollly](https://poll.ly/#/) as Platform on which video
+> suggestions can be made. This is **OUTDATED**. Please use 
+> <https://poll.coding.garden/>.
+
 ## Outline
 
 - [1:12] Introduction
@@ -20,13 +24,26 @@ View the video [here](https://www.youtube.com/watch?v=U0btOGPwrIY)
   - [14:12] Create a basic express app
   - [15:39] Create node scripts
 - [16:31] Create search route
-- [17:09] Import scraper code
+- [17:09] Refactor
 - [18:02] Get movie id from IMDB
 - [20:12] Create movie route
 - [23:19] Get data from IMDB movie page
-- [51:50] things to keep in mind when scraping the web
-- [53:10] back to getting data from IMDB
-- [55:42] refactoring
-- 
+- [51:50] Things to keep in mind when scraping the web
+- [53:10] Back to getting data from IMDB
+- [55:42] Refactor
+- [1:00:49] OUTDATED suggest videos via pollly
+- [1:03:40] Add caching
+- [1:07:16] Deployment via now
+- Create Frontend in Vanilla JS
+  - [1:09:45] Add CORS
+  - [1:11:11] Create client folder
+  - [1:11:42] Add Bootswatch CDN
+  - [1:12:21] Start styling 
+  - [1:15:50] Add search logic
+  - [1:19:00] Show search results on page
+  - [1:22:59] Create movie page
+  - [1:41:52] Format date with date-fns
+- [1:46:04] Review of what we have built today!
+- [1:51:42] OUTDATED suggest videos via pollly
 
 Contributed by: @hablwgq
