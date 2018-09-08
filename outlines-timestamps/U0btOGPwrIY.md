@@ -44,7 +44,7 @@ View the video [here](https://www.youtube.com/watch?v=U0btOGPwrIY)
     - [53:10] Try getting budget
     - [54:09] Production companies
     - [57:46] Link to trailer (Part I)
-  - [1:00:49] OUTDATED suggest videos via pollly (view top of description)
+  - [1:00:49] This is OUTDATED. Please use https://poll.coding.garden/
   - [1:01:21] Link to trailer (Part II)
   - [1:03:40] Add caching
   - [1:07:16] Deployment via now
@@ -58,6 +58,6 @@ View the video [here](https://www.youtube.com/watch?v=U0btOGPwrIY)
   - [1:23:04] Create movie page
   - [1:41:52] Format date with date-fns
 - [1:46:04] Review of what we have built today!
-- [1:51:42] OUTDATED suggest videos via pollly (view top of description)
+- [1:51:42] This is OUTDATED. Please use https://poll.coding.garden/
 
-Contributed by: @hablwgq
+Contributed by: @sbibow
