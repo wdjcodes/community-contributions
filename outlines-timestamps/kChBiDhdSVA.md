@@ -4,10 +4,10 @@ View the video [here](https://www.youtube.com/watch?v=kChBiDhdSVA)
 
 ## Important Links
 
-- TypeScript
-- Angular 5
-- AngularJS 1.X
-- Bootswatch
+- [TypeScript](https://www.typescriptlang.org/)
+- [Angular 5](https://angular.io/)
+- [AngularJS 1.X](https://angularjs.org/)
+- [Bootswatch](https://bootswatch.com/)
 
 ## Outline
 
