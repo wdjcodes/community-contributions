@@ -1,4 +1,4 @@
-# Video Title
+# Intro to TypeScript and Angular 5
 
 View the video [here](https://www.youtube.com/watch?v=kChBiDhdSVA)
 
