@@ -24,3 +24,5 @@ An example of a very detailed outline with timestamps of the first official codi
 ## Outlines
 
 * [Coding Garden Kickoff - Build a Full Stack JavaScript Application Part 1](aql62xliRzE.md)
+* [Build a Web Scraper with Node.js - IMDB Movie Search](U0btOGPwrIY.md)
+* [Intro to TypeScript and Angular 5](kChBiDhdSVA.md)
