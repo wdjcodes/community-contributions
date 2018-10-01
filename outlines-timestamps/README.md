@@ -18,6 +18,7 @@ An example of a very detailed outline with timestamps of the first official codi
   * If an outline does not yet exist, one will need to be created.
 * Update the outline with timestamps for each bullet point
   * Timestamps should use the format HH:MM:SS (e.g. 1:01:01) as youtube will allow users to click these timestamps to jump forward in the video.
+* If applicable add links from the video (resources, references, etc.) in the "Important links" section
 * Add your name to the bottom of the file (e.g. Contributed by: @w3cj)
 * After adding a new file, add a link to it in the list below
 

@@ -2,6 +2,11 @@
 
 View the video [here](https://www.youtube.com/watch?v=video-id-here)
 
+## Important links
+
+* Example - https://www.example.com/
+* Reference - https://yourdomain.here/
+
 ## Outline
 
 * [2:30] Introduction
